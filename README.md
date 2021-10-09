@@ -1,4 +1,4 @@
-使用 Larevel8 實作 RESTful API
+使用 Larevel 實作 RESTful API
 
 部署方式:
 1. 將 .env.example 複製改名為 .env 並填入你自己的 mysql 相關資料
